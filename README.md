@@ -9,7 +9,7 @@ To run and interact with the prototype, follow the steps below:
      [Travel & Tour Booking Website Prototype](https://www.figma.com/proto/nfGtR3y48xMjP7B12lE94S/Travel-%26-Tour-Booking-Website-(Community)?node-id=0-622&p=f&t=qxLO5oYSu3ttciUI-1&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=0%3A622&show-proto-sidebar=1).
 
 2. **Launch the Prototype:**
-   - Clicking the link will open the prototype in presentation mode and adjust the width to "Fit Width" in top right corner to adjust the screen size.
+   - Clicking the link will open the prototype in presentation mode and adjust the width to "Fit Width" in top right corner to adjust accordingly.
 
 3. **Wait for the Prototype to Load:**
    - The prototype will take a few seconds to load in your browser window. Once it's ready, you'll be able to interact with it.
